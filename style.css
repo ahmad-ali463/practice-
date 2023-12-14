@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+    
+
+.ali1{
+    float: right;
+    list-style-type: none;
+    display: flex;
+}
